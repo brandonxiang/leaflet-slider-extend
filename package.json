@@ -1,0 +1,25 @@
+{
+  "name": "leaflet-slider-extend",
+  "version": "1.0.0",
+  "description": "A extension for leaflet-slider",
+  "main": "SliderControl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"browser-sync start --server --files \"**/*.html,**/*.css,**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonxiang/leaflet-slider-extend.git"
+  },
+  "keywords": [
+    "leafletjs",
+    "slider",
+    "play"
+  ],
+  "author": "brandonxiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonxiang/leaflet-slider-extend/issues"
+  },
+  "homepage": "https://github.com/brandonxiang/leaflet-slider-extend#readme"
+}
