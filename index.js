@@ -36,6 +36,7 @@ $.get("test.json", function (data) {
     test = L.geoJson(data,{style:style});
 
     var sliderControl = L.control.sliderControl({
+        position:"bottomright",
         layer: test,
         range: false,
         follow:1
